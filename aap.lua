@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/d
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))();
 
 local Window = Library:CreateWindow({
-    Title = "Anime Power V1.0.0",
+    Title = "Anime Power V0.5.0",
     SubTitle = "by borges",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
